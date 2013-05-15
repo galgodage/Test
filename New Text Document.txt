@@ -68,3 +68,10 @@ g
 fg
 f
 gfd
+
+fdg
+fd
+gds
+g
+ds
+g
