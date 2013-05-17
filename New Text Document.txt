@@ -68,6 +68,14 @@ g
 fg
 f
 gfd
+f
+g
+dfg
+fd
+gdf
+g
+dfg
+
 
 fdg
 fd
